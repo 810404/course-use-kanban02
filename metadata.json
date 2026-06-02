@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Kanban",
+  "description": "一個輕量、細緻精巧的個人任務看板。支援「待辦、進行中、已完成」三欄單步流轉、內建實時卡片計數器，並擁有高質感的極簡美學與 LocalStorage 本地端存檔回復功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
